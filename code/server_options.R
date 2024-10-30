@@ -147,7 +147,7 @@ gen_algemeen_group_text <- function(group_type_text, group_data_size, geslacht_i
   migration_text <- ""
   if (migratie_input == lang[["no_migrationbackground"]])
     migration_text <- add_dynamic_text(lang[["general_text_group_text_without_migration"]], lang_dynamic_map)
-  else if (migratie_input != "Totaal" ) {
+  else if (migratie_input != "Totaal" & migratie_input != "Total") {
     lang_dynamic_map[["<<var_input_migration_adjective>>"]] <- lang[["adjective_map"]][[migratie_input]]
     migration_text <- lang[["general_text_group_text_with_migration"]]
   }
