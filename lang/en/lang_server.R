@@ -19,7 +19,7 @@ lang[["general_text_axis_parent_income"]] <- "Each dot in the figure is based on
 
 lang[["general_text_axis_parent_education"]] <- "Each bar in the figure shows the <<statistic_type>> <<input_outcome_name_lowercase>> of <<input_population>>, by highest parental educational attainment"
 
-lang[["general_text_axis_parent_education_lollipop"]] <- "Each lollipop (line and dot) in the figure show the <<statistic_type>> <<input_outcome_name_lowercase>> of <<input_population>>, by highest parental educational attainment. The size of the dot represents the number of individuals within a group mensen dat in de lollipop zit binnen een groep."
+lang[["general_text_axis_parent_education_lollipop"]] <- "Each lollipop (line and dot) in the figure show the <<statistic_type>> <<input_outcome_name_lowercase>> of <<input_population>>, by highest parental educational attainment. The size of the dot represents the number of individuals within a group."
 
 lang[["general_text_groupX"]] <- "The <<var_group_id_colored>> consists of <<var_group_size>> <<var_input_gender_adjective>> <<var_input_population>> <<general_text_migration_if_available>> who grew up <<general_text_household_if_available>> in <<var_input_geography>>."
 
