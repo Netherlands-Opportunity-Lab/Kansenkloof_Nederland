@@ -13,7 +13,7 @@ insert(lang[["adjective_map"]], "With migration background", "")
 
 # Algemeen tekst
 # Note: alles tussen <<...>> is een variable die in de server vervangen wordt door dynamische waarde. De betekenis daarvan staan apart gedocumenteerd in een OneDrive excel.
-lang[["general_text_plot_order"]] <- "ranked from low to high income "
+lang[["general_text_plot_order"]] <- "ranked from low to high parental income "
 
 lang[["general_text_axis_parent_income"]] <- "Each dot in the figure is based on <<data_percentage_per>> of <<input_population>> ranked on the horizontal axis <<general_text_plot_order_if_available>> within the respective group. The vertical axis shows the <<statistic_type>> <<input_outcome_name_lowercase>>."
 
@@ -42,8 +42,8 @@ lang[["bar"]] <- "bar"
 
 lang[["what_do_i_see_text_parent_income_multiple_datapoints"]] <- "<p>The leftmost <<var_group_datapoint_id>> shows that, among the <<data_percentage_per>> <<input_population>> with parents with the lowest incomes in the <<var_group_id>> (on average € <<var_data_parent_lowest_income>> per year), the <<statistic_type>> with a <<input_outcome_name_lowercase>> was <<var_data_lowest_mean>>.</p><p>The rightmost <<var_group_datapoint_id>> shows that, among the <<data_percentage_per>> <<input_population>> with parents with the highest incomes in the <<var_group_id>> (on average € <<var_data_parent_highest_income>> per year), the <<statistic_type>> with a <<input_outcome_name_lowercase>> was <<var_data_highest_mean>>.</p>" 
 
-lang[["what_do_i_see_text_parent_income_single_datapoint"]] <- "The <<var_group_datapoint_id>> with an annual parental income of on average € <<var_data_parent_income>>, shows that, among <<data_percentage_per>> <<input_population>> the <<statistic_type>> with a <<input_outcome_name_lowercase>> was <<var_data_mean>>."
+lang[["what_do_i_see_text_parent_income_single_datapoint"]] <- "The <<var_group_datapoint_id>> shows that, among <<data_percentage_per>> <<input_population>>, annual parental income was on average € <<var_data_parent_income>>, and that the <<statistic_type>> with a <<input_outcome_name_lowercase>> was <<var_data_mean>>."
 
 lang[["what_do_i_see_text_mean"]] <- "The total <<statistic_type>> <<input_outcome_name_lowercase>> of the <<var_group_id_colored>> is <<var_total_mean>>."
 
-lang[["what_do_i_see_text_parent_education"]] <- "The leftmost <<var_group_datapoint_id>> shows that, among <<input_population>> for whom the highest-educated parent(s) obtained a higher professional education degree, the <<statistic_type>> <<input_outcome_name_lowercase>> was <<var_data_left_mean>>. The middle <<var_group_datapoint_id>> whose parents have not completed either a higher professional education or university degree shows that, among <<input_population>>, the <<statistic_type>> <<input_outcome_name_lowercase>> was <<var_data_middle_mean>>. The rightmost <<var_group_datapoint_id>> shows that, among <<input_population>> for whom the highest-educated parent(s) obtained a university degree, the <<statistic_type>> <<input_outcome_name_lowercase>> was <<var_data_right_mean>>"
+lang[["what_do_i_see_text_parent_education"]] <- "<p>The leftmost <<var_group_datapoint_id>> shows that, among <<input_population>> for whom the highest-educated parent(s) obtained a higher professional education degree, the <<statistic_type>> <<input_outcome_name_lowercase>> was <<var_data_left_mean>>.</p><p>The middle <<var_group_datapoint_id>> whose parents have not completed either a higher professional education or university degree shows that, among <<input_population>>, the <<statistic_type>> <<input_outcome_name_lowercase>> was <<var_data_middle_mean>>.</p><p>The rightmost <<var_group_datapoint_id>> shows that, among <<input_population>> for whom the highest-educated parent(s) obtained a university degree, the <<statistic_type>> <<input_outcome_name_lowercase>> was <<var_data_right_mean>>.</p>"
