@@ -4,8 +4,8 @@ lang[["title_width"]] <- 500
 
 # General
 lang[["outcome_measure"]] <- "Outcome"
-lang[["parent_income"]] <- "Parental Income"
-lang[["parent_education"]] <- "Parental Education"
+lang[["parent_income"]] <- "Income parents"
+lang[["parent_education"]] <- "Education parents"
 
 lang[["line"]] <- "Line"
 lang[["average"]] <- "Average"
@@ -77,7 +77,7 @@ lang[["box_text_switch_label"]] <- "Show explanation of:"
 # Graph 
 lang[["plot_no_data"]] <- "Insufficient data"
 lang[["plot_graph_x_label"]] <- "Annual parental income (times € 1.000)"
-lang[["plot_bar_x_label"]] <- "Highest level of education attained by parents"
+lang[["plot_bar_x_label"]] <- "Highest level of education parents"
 lang[["plot_bubble_x_label"]] <- lang[["plot_bar_x_label"]]
 
 # Graph hover label
