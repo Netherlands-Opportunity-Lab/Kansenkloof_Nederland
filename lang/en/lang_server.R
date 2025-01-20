@@ -13,7 +13,7 @@ insert(lang[["adjective_map"]], "With migration background", "")
 
 # Algemeen tekst
 # Note: alles tussen <<...>> is een variable die in de server vervangen wordt door dynamische waarde. De betekenis daarvan staan apart gedocumenteerd in een OneDrive excel.
-lang[["general_text_plot_order"]] <- "ranked from low to high income "
+lang[["general_text_plot_order"]] <- "ranked from low to high parental income "
 
 lang[["general_text_axis_parent_income"]] <- "Each dot in the figure is based on <<data_percentage_per>> of <<input_population>> ranked on the horizontal axis <<general_text_plot_order_if_available>> within the respective group. The vertical axis shows the <<statistic_type>> <<input_outcome_name_lowercase>>."
 
