@@ -62,7 +62,7 @@ body <- dashboardBody(
                               box(height = NULL, title = lang[["box_outcome"]], width = NULL,
                                   status = "primary", solidHeader = TRUE,
                                   pickerInput("outcome", label = lang[["box_outcome_select_outcome"]], 
-                                              selected = "c30_home_owner",
+                                              selected = "c30_household_income",
                                               choices = outcomeChoices,
                                               options = list(`live-search` = T, style = "", size = 10, `show-subtext` = TRUE),
                                               choicesOpt = list(subtext = outcome_dat$population)),
