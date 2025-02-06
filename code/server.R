@@ -105,37 +105,110 @@ server <- function(input, output, session) {
   # REACTIVE ----------------------------------------------------------
   
   dataInput1 <- reactive({
-    data_group1 <- subset(gradient_dat, gradient_dat$uitkomst == input$outcome &
-                            gradient_dat$geografie == input$geografie1 & 
-                            gradient_dat$geslacht == input$geslacht1 &
-                            gradient_dat$migratieachtergrond == input$migratie1 & 
-                            gradient_dat$huishouden == input$huishouden1)
+    if (input$geografie1_2 == "") {
+      data_group1 <- subset(gradient_dat, gradient_dat$uitkomst == input$outcome &
+                              gradient_dat$geografie == input$geografie1_1 & 
+                              gradient_dat$geslacht == input$geslacht1 &
+                              gradient_dat$migratieachtergrond == input$migratie1 & 
+                              gradient_dat$huishouden == input$huishouden1)
+    } else {
+      data_group1 <- subset(gradient_dat, gradient_dat$uitkomst == input$outcome &
+                              gradient_dat$geografie == input$geografie1_2 & 
+                              gradient_dat$geslacht == input$geslacht1 &
+                              gradient_dat$migratieachtergrond == input$migratie1 & 
+                              gradient_dat$huishouden == input$huishouden1)
+    }
   })
   
   dataInput2 <- reactive({
-    data_group2 <- subset(gradient_dat, gradient_dat$uitkomst == input$outcome &
-                            gradient_dat$geografie == input$geografie2 & 
-                            gradient_dat$geslacht == input$geslacht2 &
-                            gradient_dat$migratieachtergrond == input$migratie2 & 
-                            gradient_dat$huishouden == input$huishouden2)
+    if (input$geografie2_2 == "") {
+      data_group2 <- subset(gradient_dat, gradient_dat$uitkomst == input$outcome &
+                              gradient_dat$geografie == input$geografie2_1 & 
+                              gradient_dat$geslacht == input$geslacht2 &
+                              gradient_dat$migratieachtergrond == input$migratie2 & 
+                              gradient_dat$huishouden == input$huishouden2)
+    } else {
+      data_group2 <- subset(gradient_dat, gradient_dat$uitkomst == input$outcome &
+                              gradient_dat$geografie == input$geografie2_2 & 
+                              gradient_dat$geslacht == input$geslacht2 &
+                              gradient_dat$migratieachtergrond == input$migratie2 & 
+                              gradient_dat$huishouden == input$huishouden2)
+    }
+  })
+  
+  output$geografie1_2 <- renderUI({
+    GeoChoices_2_1 <- list("",
+                           sort(subset(area_dat$area, area_dat$type == lang[["label_pc3"]] & area_dat$gemeente == input$geografie1_1)),
+                           sort(subset(area_dat$area, area_dat$type == lang[["label_neighborhood"]] & area_dat$gemeente == input$geografie1_1))
+    )
     
+    names(GeoChoices_2_1) <- c(
+      lang[["geography_label_whole_municipality"]],
+      lang[["geography_label_pc3"]],
+      lang[["geography_label_neighborhood"]]
+    )
+    
+    # Generate the pickerInput UI
+    pickerInput(
+      "geografie1_2",
+      label = lang[["smaller_area"]],
+      selected = "",  # Default to blank
+      choices = GeoChoices_2_1,  # Use grouped options
+      options = list(`live-search` = TRUE, style = "", size = 10)
+    )
+  })
+  
+  output$geografie2_2 <- renderUI({
+    GeoChoices_2_2 <- list("",
+                           sort(subset(area_dat$area, area_dat$type == lang[["label_pc3"]] & area_dat$gemeente == input$geografie2_1)),
+                           sort(subset(area_dat$area, area_dat$type == lang[["label_neighborhood"]] & area_dat$gemeente == input$geografie2_1))
+    )
+    
+    names(GeoChoices_2_2) <- c(
+      lang[["geography_label_whole_municipality"]],
+      lang[["geography_label_pc3"]],
+      lang[["geography_label_neighborhood"]]
+    )
+    pickerInput(
+      "geografie2_2",
+      label = lang[["smaller_area"]],
+      selected = "",  # Default to blank
+      choices = GeoChoices_2_2,  # Use grouped options
+      options = list(`live-search` = TRUE, style = "", size = 10)
+    )
   })
   
   
   # FILTER DATA ----------------------------------------------------
   filterData <- reactive({
     
-    data_group1 <- subset(gradient_dat, gradient_dat$uitkomst == input$outcome &
-                            gradient_dat$geografie == input$geografie1 & 
-                            gradient_dat$geslacht == input$geslacht1 &
-                            gradient_dat$migratieachtergrond == input$migratie1 & 
-                            gradient_dat$huishouden == input$huishouden1)
+    if (input$geografie1_2 == "") {
+      data_group1 <- subset(gradient_dat, gradient_dat$uitkomst == input$outcome &
+                              gradient_dat$geografie == input$geografie1_1 & 
+                              gradient_dat$geslacht == input$geslacht1 &
+                              gradient_dat$migratieachtergrond == input$migratie1 & 
+                              gradient_dat$huishouden == input$huishouden1)
+    } else {
+      data_group1 <- subset(gradient_dat, gradient_dat$uitkomst == input$outcome &
+                              gradient_dat$geografie == input$geografie1_2 & 
+                              gradient_dat$geslacht == input$geslacht1 &
+                              gradient_dat$migratieachtergrond == input$migratie1 & 
+                              gradient_dat$huishouden == input$huishouden1)
+    }
     
-    data_group2 <- subset(gradient_dat, gradient_dat$uitkomst == input$outcome &
-                            gradient_dat$geografie == input$geografie2 & 
-                            gradient_dat$geslacht == input$geslacht2 &
-                            gradient_dat$migratieachtergrond == input$migratie2 & 
-                            gradient_dat$huishouden == input$huishouden2)
+    if (input$geografie2_2 == "") {
+      data_group2 <- subset(gradient_dat, gradient_dat$uitkomst == input$outcome &
+                              gradient_dat$geografie == input$geografie2_1 & 
+                              gradient_dat$geslacht == input$geslacht2 &
+                              gradient_dat$migratieachtergrond == input$migratie2 & 
+                              gradient_dat$huishouden == input$huishouden2)
+    } else {
+      data_group2 <- subset(gradient_dat, gradient_dat$uitkomst == input$outcome &
+                              gradient_dat$geografie == input$geografie2_2 & 
+                              gradient_dat$geslacht == input$geslacht2 &
+                              gradient_dat$migratieachtergrond == input$migratie2 & 
+                              gradient_dat$huishouden == input$huishouden2)
+    }
     
     # Flag to check whether to use the user input
     # When false to the UI slider is updated to reflect the new data
@@ -187,7 +260,8 @@ server <- function(input, output, session) {
     
     caption1 <- paste(
         sprintf("%s:", toupper(lang[["blue_group"]])), 
-        input$geografie1, sprintf("(%s) -",tolower(lang[["area"]])), 
+        input$geografie1_1, sprintf("(%s) -",tolower(lang[["area"]])), 
+        input$geografie1_2, sprintf("(%s) -",tolower(lang[["smaller_area"]])), 
         input$geslacht1, sprintf("(%s) -",tolower(lang[["gender"]])), 
         input$migratie1, sprintf("(%s) -",tolower(lang[["migration_background"]])), 
         input$huishouden1, sprintf("(%s)",tolower(lang[["parent_amount_label"]]))
@@ -196,7 +270,8 @@ server <- function(input, output, session) {
     if(!input$OnePlot) {
       caption2 <- paste(
         sprintf("%s:", toupper(lang[["green_group"]])), 
-        input$geografie2, sprintf("(%s) -",tolower(lang[["area"]])), 
+        input$geografie2_1, sprintf("(%s) -",tolower(lang[["area"]])), 
+        input$geografie2_2, sprintf("(%s) -",tolower(lang[["smaller_area"]])), 
         input$geslacht2, sprintf("(%s) -",tolower(lang[["gender"]])), 
         input$migratie2, sprintf("(%s) -",tolower(lang[["migration_background"]])), 
         input$huishouden2, sprintf("(%s)",tolower(lang[["parent_amount_label"]]))
@@ -219,7 +294,8 @@ server <- function(input, output, session) {
     
     caption1 <- paste(
         sprintf("%s:", toupper(lang[["blue_group"]])), 
-        input$geografie1, sprintf("(%s) -",tolower(lang[["area"]])), 
+        input$geografie1_1, sprintf("(%s) -",tolower(lang[["area"]])), 
+        input$geografie1_2, sprintf("(%s) -",tolower(lang[["smaller_area"]])), 
         input$geslacht1, sprintf("(%s) -",tolower(lang[["gender"]])), 
         input$migratie1, sprintf("(%s) -",tolower(lang[["migration_background"]])), 
         input$huishouden1, sprintf("(%s)",tolower(lang[["parent_amount_label"]])) 
@@ -228,7 +304,8 @@ server <- function(input, output, session) {
     if(!input$OnePlot) {
       caption2 <- paste(
         sprintf("%s:", toupper(lang[["green_group"]])), 
-        input$geografie2, sprintf("(%s) -",tolower(lang[["area"]])), 
+        input$geografie2_1, sprintf("(%s) -",tolower(lang[["area"]])), 
+        input$geografie2_2, sprintf("(%s) -",tolower(lang[["smaller_area"]])), 
         input$geslacht2, sprintf("(%s) -",tolower(lang[["gender"]])), 
         input$migratie2, sprintf("(%s) -",tolower(lang[["migration_background"]])), 
         input$huishouden2, sprintf("(%s)",tolower(lang[["parent_amount_label"]]))
@@ -313,7 +390,8 @@ server <- function(input, output, session) {
       geslacht_input = input$geslacht1,
       migratie_input = input$migratie1,
       huishouden_input = input$huishouden1,
-      geografie_input = input$geografie1,
+      geografie1_input = input$geografie1_1,
+      geografie2_input = input$geografie1_2,
       populatie_input = labels_dat$population,
       lang_dynamic_map = lang_dynamic_map
     )
@@ -326,7 +404,8 @@ server <- function(input, output, session) {
         geslacht_input = input$geslacht2,
         migratie_input = input$migratie2,
         huishouden_input = input$huishouden2,
-        geografie_input = input$geografie2,
+        geografie1_input = input$geografie2_1,
+        geografie2_input = input$geografie2_2,
         populatie_input = labels_dat$population,
         lang_dynamic_map = lang_dynamic_map
       )

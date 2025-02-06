@@ -4,21 +4,22 @@
 #
 # (c) Erasmus School of Economics 2024
 
-GeoChoices <- list(lang[["geography_label_the_netherlands"]],
-                   sort(subset(area_dat$geografie, area_dat$type == lang[["label_drenthe"]])), 
-                   sort(subset(area_dat$geografie, area_dat$type == lang[["label_flevoland"]])),
-                   sort(subset(area_dat$geografie, area_dat$type == lang[["label_friesland"]] )),
-                   sort(subset(area_dat$geografie, area_dat$type == lang[["label_gelderland"]])),
-                   sort(subset(area_dat$geografie, area_dat$type == lang[["label_groningen"]])),
-                   sort(subset(area_dat$geografie, area_dat$type == lang[["label_limburg"]])),
-                   sort(subset(area_dat$geografie, area_dat$type == lang[["label_noord_brabant"]])),
-                   sort(subset(area_dat$geografie, area_dat$type == lang[["label_noord_holland"]])),
-                   sort(subset(area_dat$geografie, area_dat$type == lang[["label_overijssel"]])),
-                   sort(subset(area_dat$geografie, area_dat$type == lang[["label_utrecht"]])),
-                   sort(subset(area_dat$geografie, area_dat$type == lang[["label_zeeland"]])),
-                   sort(subset(area_dat$geografie, area_dat$type == lang[["label_zuid_holland"]])))
+GeoChoices_1 <- list(lang[["label_the_netherlands"]],
+                   sort(unique(subset(area_dat$gemeente, area_dat$provincie == lang[["label_drenthe"]] & area_dat$type == lang[["label_municipality"]]))), 
+                   sort(unique(subset(area_dat$gemeente, area_dat$provincie == lang[["label_flevoland"]] & area_dat$type == lang[["label_municipality"]]))),
+                   sort(unique(subset(area_dat$gemeente, area_dat$provincie == lang[["label_friesland"]] & area_dat$type == lang[["label_municipality"]]))),
+                   sort(unique(subset(area_dat$gemeente, area_dat$provincie == lang[["label_gelderland"]] & area_dat$type == lang[["label_municipality"]]))),
+                   sort(unique(subset(area_dat$gemeente, area_dat$provincie == lang[["label_groningen"]] & area_dat$type == lang[["label_municipality"]]))),
+                   sort(unique(subset(area_dat$gemeente, area_dat$provincie == lang[["label_limburg"]] & area_dat$type == lang[["label_municipality"]]))),
+                   sort(unique(subset(area_dat$gemeente, area_dat$provincie == lang[["label_noord_brabant"]] & area_dat$type == lang[["label_municipality"]]))),
+                   sort(unique(subset(area_dat$gemeente, area_dat$provincie == lang[["label_noord_holland"]] & area_dat$type == lang[["label_municipality"]]))),
+                   sort(unique(subset(area_dat$gemeente, area_dat$provincie == lang[["label_overijssel"]] & area_dat$type == lang[["label_municipality"]]))),
+                   sort(unique(subset(area_dat$gemeente, area_dat$provincie == lang[["label_utrecht"]] & area_dat$type == lang[["label_municipality"]]))),
+                   sort(unique(subset(area_dat$gemeente, area_dat$provincie == lang[["label_zeeland"]] & area_dat$type == lang[["label_municipality"]]))),
+                   sort(unique(subset(area_dat$gemeente, area_dat$provincie == lang[["label_zuid_holland"]] & area_dat$type == lang[["label_municipality"]])))
+                   )
 
-names(GeoChoices) <- c("",
+names(GeoChoices_1) <- c("",
                        lang[["geography_label_areas_drenthe"]],
                        lang[["geography_label_areas_flevoland"]],
                        lang[["geography_label_areas_friesland"]], 
@@ -30,7 +31,8 @@ names(GeoChoices) <- c("",
                        lang[["geography_label_areas_overijssel"]],
                        lang[["geography_label_areas_utrecht"]], 
                        lang[["geography_label_areas_zeeland"]], 
-                       lang[["geography_label_areas_zuid_holland"]])
+                       lang[["geography_label_areas_zuid_holland"]]
+                       )
 
 outcomeChoices <- list(
     lang[["health_choices"]], 

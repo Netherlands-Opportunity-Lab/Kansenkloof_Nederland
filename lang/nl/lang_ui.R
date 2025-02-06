@@ -105,7 +105,8 @@ lang[["reset"]] <- "Opnieuw instellen"
 # Blue/green group adjustments
 lang[["the_netherlands"]] <- "Nederland"
 
-lang[["area"]] <- "Geografie"
+lang[["area"]] <- "Gemeente"
+lang[["smaller_area"]] <- "Postcode (3 cijfers), wijk"
 lang[["gender"]] <- "Geslacht"
 lang[["migration_background"]] <- "Migratieachtergrond"
 
@@ -131,6 +132,9 @@ lang[["geography_label_areas_utrecht"]] <- "Utrecht"
 lang[["geography_label_areas_zeeland"]] <- "Zeeland"
 lang[["geography_label_areas_zuid_holland"]] <- "Zuid-Holland"
 lang[["geography_label_the_netherlands"]] <- "Nederland"
+lang[["geography_label_neighborhood"]] <- "Wijk"
+lang[["geography_label_pc3"]] <- "Postcode (3 cijfers)"
+lang[["geography_label_whole_municipality"]] <- "Gehele gebied"
 
 # Voor lang[["money_choices"]], lang[["health_choices"]], lang[["education_choices"]], en lang[["house_choices"]]  niet de tekst achter de "=" vertalen. Dus c30_income moet niet!
 lang[["health_choices"]] <- c("Laag geboortegewicht" = "c00_sga",
@@ -232,6 +236,10 @@ lang[["label_overijssel"]] <- "Overijssel"
 lang[["label_utrecht"]] <- "Utrecht"
 lang[["label_zeeland"]] <- "Zeeland"
 lang[["label_zuid_holland"]] <- "Zuid-Holland"
+lang[["label_the_netherlands"]] <- "Nederland"
+lang[["label_neighborhood"]] <- "Wijk"
+lang[["label_pc3"]] <- "PC3"
+lang[["label_municipality"]] <- "Gemeente"
 
 # License
 lang[["license_text"]] <- "Deze figuur is gemaakt door Helen Lam, Bastian Ravesteijn en Coen van de Kraats (Erasmus School of Economics), met ondersteuning van Kenniscentrum Ongelijkheid. De figuur en onderliggende data zijn beschikbaar volgens een Creative Commons BY-NC-SA 4.0 licentie, altijd onder vermelding van auteurs en de website kansenkloof.nl. Bij vragen kunt u contact opnemen met ravesteijn@ese.eur.nl"

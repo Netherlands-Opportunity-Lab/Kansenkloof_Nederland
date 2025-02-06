@@ -134,7 +134,7 @@ get_stat_per_outcome_html <- function(sample_dat){
 
 # Generate text for the "Algemeen" tab
 gen_algemeen_group_text <- function(group_type_text, group_data_size, geslacht_input, 
-                                    migratie_input, huishouden_input, geografie_input, 
+                                    migratie_input, huishouden_input, geografie1_input, geografie2_input,
                                     populatie_input, lang_dynamic_map) {
   
   lang_dynamic_map[["<<var_group_id_colored>>"]] <- group_type_text
@@ -164,7 +164,8 @@ gen_algemeen_group_text <- function(group_type_text, group_data_size, geslacht_i
   lang_dynamic_map[["<<var_input_population>>"]] <- tolower(populatie_input)
   lang_dynamic_map[["<<general_text_migration_if_available>>"]] <- migration_text
   lang_dynamic_map[["<<general_text_household_if_available>>"]] <- household_text
-  lang_dynamic_map[["<<var_input_geography>>"]] <- geografie_input
+  lang_dynamic_map[["<<var_input_geography>>"]] <- geografie1_input
+  lang_dynamic_map[["<<var_input_smaller_geography>>"]] <- geografie2_input
   
   group_text <- add_dynamic_text(lang[["general_text_groupX"]], lang_dynamic_map)
 
