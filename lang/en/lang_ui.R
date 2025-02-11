@@ -100,9 +100,10 @@ lang[["x_axis_label"]] <- "Horizontal axis (X-axis):"
 lang[["reset"]] <- "Reset"
 
 # Blue/green group adjustments
-lang[["the_netherlands"]] <- "The Netherlands"
+lang[["label_the_netherlands"]] <- "The Netherlands"
 
-lang[["area"]] <- "Geography"
+lang[["area"]] <- "Municipality"
+lang[["smaller_area"]] <- "Postcode (3 digits), neighborhood"
 lang[["gender"]] <- "Sex"
 lang[["migration_background"]] <- "Migration background"
 
@@ -128,6 +129,9 @@ lang[["geography_label_areas_utrecht"]] <- "Utrecht"
 lang[["geography_label_areas_zeeland"]] <- "Zeeland"
 lang[["geography_label_areas_zuid_holland"]] <- "Zuid-Holland"
 lang[["geography_label_the_netherlands"]] <- "The Netherlands"
+lang[["geography_label_neighborhood"]] <- "Neighborhood"
+lang[["geography_label_pc3"]] <- "Postcode (3 digits)"
+lang[["geography_label_whole_municipality"]] <- "Whole area"
 
 
 # Voor lang[["money_choices"]], lang[["health_choices"]], lang[["education_choices"]], en lang[["house_choices"]]  niet de tekst achter de "=" vertalen. Dus c30_income moet niet!
@@ -233,6 +237,9 @@ lang[["label_overijssel"]] <- "Overijssel"
 lang[["label_utrecht"]] <- "Utrecht"
 lang[["label_zeeland"]] <- "Zeeland"
 lang[["label_zuid_holland"]] <- "Zuid-Holland"
+lang[["label_municipality"]] <- "Municipality"
+lang[["label_neighborhood"]] <- "Neighborhood"
+lang[["label_pc3"]] <- "PC3"
 
 
 
