@@ -204,16 +204,6 @@ Amsterdam,Total,Suriname,Total,20% - 40%,c00_infant_mortality,1692,1.241,34,Tota
 Amsterdam,Total,Suriname,Total,40% - 60%,c00_infant_mortality,1692,0.946,49,Total,5
 Amsterdam,Total,Suriname,Total,60% - 80%,c00_infant_mortality,1692,1.241,71,Total,5
 Amsterdam,Total,Suriname,Total,80% - 100%,c00_infant_mortality,1692,0.827,123,Total,5
-Amsterdam,Total,Overig,Total,0% - 20%,c00_infant_mortality,6028,1.327,24,Total,5
-Amsterdam,Total,Overig,Total,20% - 40%,c00_infant_mortality,6028,0.68,45,Total,5
-Amsterdam,Total,Overig,Total,40% - 60%,c00_infant_mortality,6028,0.697,72,Total,5
-Amsterdam,Total,Overig,Total,60% - 80%,c00_infant_mortality,6024,0.498,109,Total,5
-Amsterdam,Total,Overig,Total,80% - 100%,c00_infant_mortality,6024,0.315,213,Total,5
-Amsterdam,Total,Overig,Two Parents,0% - 20%,c00_infant_mortality,4936,1.155,28,Total,5
-Amsterdam,Total,Overig,Two Parents,20% - 40%,c00_infant_mortality,4936,0.81,54,Total,5
-Amsterdam,Total,Overig,Two Parents,40% - 60%,c00_infant_mortality,4936,0.506,83,Total,5
-Amsterdam,Total,Overig,Two Parents,60% - 80%,c00_infant_mortality,4933,0.405,119,Total,5
-Amsterdam,Total,Overig,Two Parents,80% - 100%,c00_infant_mortality,4932,0.365,226,Total,5
 Amsterdam,Total,With Migration Background,Total,0% - 20%,c00_infant_mortality,11852,1.358,24,Total,5
 Amsterdam,Total,With Migration Background,Total,20% - 40%,c00_infant_mortality,11852,0.835,40,Total,5
 Amsterdam,Total,With Migration Background,Total,40% - 60%,c00_infant_mortality,11852,0.886,60,Total,5
@@ -259,16 +249,6 @@ Amsterdam,Men,Morocco,Two Parents,20% - 40%,c00_infant_mortality,1144,1.224,41,T
 Amsterdam,Men,Morocco,Two Parents,40% - 60%,c00_infant_mortality,1144,1.049,56,Total,5
 Amsterdam,Men,Morocco,Two Parents,60% - 80%,c00_infant_mortality,1140,1.228,74,Total,5
 Amsterdam,Men,Morocco,Two Parents,80% - 100%,c00_infant_mortality,1140,0.877,110,Total,5
-Amsterdam,Men,Overig,Total,0% - 20%,c00_infant_mortality,3080,1.429,24,Total,5
-Amsterdam,Men,Overig,Total,20% - 40%,c00_infant_mortality,3078,0.585,45,Total,5
-Amsterdam,Men,Overig,Total,40% - 60%,c00_infant_mortality,3076,0.78,72,Total,5
-Amsterdam,Men,Overig,Total,60% - 80%,c00_infant_mortality,3076,0.553,109,Total,5
-Amsterdam,Men,Overig,Total,80% - 100%,c00_infant_mortality,3076,0.39,216,Total,5
-Amsterdam,Men,Overig,Two Parents,0% - 20%,c00_infant_mortality,2527,1.226,28,Total,5
-Amsterdam,Men,Overig,Two Parents,20% - 40%,c00_infant_mortality,2524,0.753,54,Total,5
-Amsterdam,Men,Overig,Two Parents,40% - 60%,c00_infant_mortality,2524,0.436,82,Total,5
-Amsterdam,Men,Overig,Two Parents,60% - 80%,c00_infant_mortality,2524,0.475,119,Total,5
-Amsterdam,Men,Overig,Two Parents,80% - 100%,c00_infant_mortality,2524,0.436,229,Total,5
 Amsterdam,Men,With Migration Background,Total,0% - 20%,c00_infant_mortality,6092,1.395,24,Total,5
 Amsterdam,Men,With Migration Background,Total,20% - 40%,c00_infant_mortality,6092,0.837,40,Total,5
 Amsterdam,Men,With Migration Background,Total,40% - 60%,c00_infant_mortality,6090,0.722,59,Total,5
@@ -429,16 +409,6 @@ Rotterdam,Total,No Migration Background,Two Parents,20% - 40%,c00_infant_mortali
 Rotterdam,Total,No Migration Background,Two Parents,40% - 60%,c00_infant_mortality,3988,0.476,93,Total,5
 Rotterdam,Total,No Migration Background,Two Parents,60% - 80%,c00_infant_mortality,3988,0.552,120,Total,5
 Rotterdam,Total,No Migration Background,Two Parents,80% - 100%,c00_infant_mortality,3988,0.251,192,Total,5
-Rotterdam,Total,Overig,Total,0% - 20%,c00_infant_mortality,3672,0.899,21,Total,5
-Rotterdam,Total,Overig,Total,20% - 40%,c00_infant_mortality,3672,0.844,35,Total,5
-Rotterdam,Total,Overig,Total,40% - 60%,c00_infant_mortality,3671,0.654,55,Total,5
-Rotterdam,Total,Overig,Total,60% - 80%,c00_infant_mortality,3668,0.682,82,Total,5
-Rotterdam,Total,Overig,Total,80% - 100%,c00_infant_mortality,3668,0.573,149,Total,5
-Rotterdam,Total,Overig,Two Parents,0% - 20%,c00_infant_mortality,2764,0.724,25,Total,5
-Rotterdam,Total,Overig,Two Parents,20% - 40%,c00_infant_mortality,2764,0.832,46,Total,5
-Rotterdam,Total,Overig,Two Parents,40% - 60%,c00_infant_mortality,2760,0.688,67,Total,5
-Rotterdam,Total,Overig,Two Parents,60% - 80%,c00_infant_mortality,2760,0.507,94,Total,5
-Rotterdam,Total,Overig,Two Parents,80% - 100%,c00_infant_mortality,2760,0.543,162,Total,5
 Rotterdam,Total,With Migration Background,Total,0% - 20%,c00_infant_mortality,8592,0.978,21,Total,5
 Rotterdam,Total,With Migration Background,Total,20% - 40%,c00_infant_mortality,8592,0.873,33,Total,5
 Rotterdam,Total,With Migration Background,Total,40% - 60%,c00_infant_mortality,8592,0.745,49,Total,5
@@ -489,11 +459,6 @@ Rotterdam,Women,Total,Two Parents,20% - 40%,c00_infant_mortality,4992,0.721,51,T
 Rotterdam,Women,Total,Two Parents,40% - 60%,c00_infant_mortality,4991,0.741,72,Total,5
 Rotterdam,Women,Total,Two Parents,60% - 80%,c00_infant_mortality,4988,0.782,98,Total,5
 Rotterdam,Women,Total,Two Parents,80% - 100%,c00_infant_mortality,4988,0.341,166,Total,5
-Rotterdam,Women,Overig,Total,0% - 20%,c00_infant_mortality,1776,0.732,21,Total,5
-Rotterdam,Women,Overig,Total,20% - 40%,c00_infant_mortality,1776,0.845,36,Total,5
-Rotterdam,Women,Overig,Total,40% - 60%,c00_infant_mortality,1774,0.845,55,Total,5
-Rotterdam,Women,Overig,Total,60% - 80%,c00_infant_mortality,1772,0.677,82,Total,5
-Rotterdam,Women,Overig,Total,80% - 100%,c00_infant_mortality,1772,0.677,150,Total,5
 Rotterdam,Women,With Migration Background,Total,0% - 20%,c00_infant_mortality,4162,0.937,21,Total,5
 Rotterdam,Women,With Migration Background,Total,20% - 40%,c00_infant_mortality,4160,0.817,34,Total,5
 Rotterdam,Women,With Migration Background,Total,40% - 60%,c00_infant_mortality,4160,0.889,49,Total,5
@@ -599,21 +564,6 @@ The Netherlands,Total,Suriname,Two Parents,20% - 40%,c00_infant_mortality,5728,0
 The Netherlands,Total,Suriname,Two Parents,40% - 60%,c00_infant_mortality,5728,0.594,74,Total,5
 The Netherlands,Total,Suriname,Two Parents,60% - 80%,c00_infant_mortality,5728,0.716,94,Total,5
 The Netherlands,Total,Suriname,Two Parents,80% - 100%,c00_infant_mortality,5724,0.507,146,Total,5
-The Netherlands,Total,Overig,Total,0% - 20%,c00_infant_mortality,57136,1.003,24,Total,5
-The Netherlands,Total,Overig,Total,20% - 40%,c00_infant_mortality,57136,0.705,44,Total,5
-The Netherlands,Total,Overig,Total,40% - 60%,c00_infant_mortality,57136,0.562,65,Total,5
-The Netherlands,Total,Overig,Total,60% - 80%,c00_infant_mortality,57133,0.471,91,Total,5
-The Netherlands,Total,Overig,Total,80% - 100%,c00_infant_mortality,57132,0.415,163,Total,5
-The Netherlands,Total,Overig,Single Parent,0% - 20%,c00_infant_mortality,7656,0.797,16,Total,5
-The Netherlands,Total,Overig,Single Parent,20% - 40%,c00_infant_mortality,7656,0.98,25,Total,5
-The Netherlands,Total,Overig,Single Parent,40% - 60%,c00_infant_mortality,7653,0.98,30,Total,5
-The Netherlands,Total,Overig,Single Parent,60% - 80%,c00_infant_mortality,7652,0.614,42,Total,5
-The Netherlands,Total,Overig,Single Parent,80% - 100%,c00_infant_mortality,7652,0.418,87,Total,5
-The Netherlands,Total,Overig,Two Parents,0% - 20%,c00_infant_mortality,49148,0.889,28,Total,5
-The Netherlands,Total,Overig,Two Parents,20% - 40%,c00_infant_mortality,49148,0.619,51,Total,5
-The Netherlands,Total,Overig,Two Parents,40% - 60%,c00_infant_mortality,49148,0.529,72,Total,5
-The Netherlands,Total,Overig,Two Parents,60% - 80%,c00_infant_mortality,49144,0.452,97,Total,5
-The Netherlands,Total,Overig,Two Parents,80% - 100%,c00_infant_mortality,49144,0.409,170,Total,5
 The Netherlands,Total,With Migration Background,Total,0% - 20%,c00_infant_mortality,94968,0.994,24,Total,5
 The Netherlands,Total,With Migration Background,Total,20% - 40%,c00_infant_mortality,94967,0.773,41,Total,5
 The Netherlands,Total,With Migration Background,Total,40% - 60%,c00_infant_mortality,94964,0.688,60,Total,5
@@ -679,21 +629,6 @@ The Netherlands,Men,Suriname,Two Parents,20% - 40%,c00_infant_mortality,2916,0.6
 The Netherlands,Men,Suriname,Two Parents,40% - 60%,c00_infant_mortality,2916,0.617,74,Total,5
 The Netherlands,Men,Suriname,Two Parents,60% - 80%,c00_infant_mortality,2916,0.686,94,Total,5
 The Netherlands,Men,Suriname,Two Parents,80% - 100%,c00_infant_mortality,2915,0.652,145,Total,5
-The Netherlands,Men,Overig,Total,0% - 20%,c00_infant_mortality,29372,1.093,24,Total,5
-The Netherlands,Men,Overig,Total,20% - 40%,c00_infant_mortality,29372,0.705,44,Total,5
-The Netherlands,Men,Overig,Total,40% - 60%,c00_infant_mortality,29372,0.603,65,Total,5
-The Netherlands,Men,Overig,Total,60% - 80%,c00_infant_mortality,29372,0.463,91,Total,5
-The Netherlands,Men,Overig,Total,80% - 100%,c00_infant_mortality,29371,0.419,163,Total,5
-The Netherlands,Men,Overig,Single Parent,0% - 20%,c00_infant_mortality,3932,0.89,16,Total,5
-The Netherlands,Men,Overig,Single Parent,20% - 40%,c00_infant_mortality,3932,1.119,25,Total,5
-The Netherlands,Men,Overig,Single Parent,40% - 60%,c00_infant_mortality,3929,1.018,30,Total,5
-The Netherlands,Men,Overig,Single Parent,60% - 80%,c00_infant_mortality,3928,0.636,42,Total,5
-The Netherlands,Men,Overig,Single Parent,80% - 100%,c00_infant_mortality,3928,0.56,89,Total,5
-The Netherlands,Men,Overig,Two Parents,0% - 20%,c00_infant_mortality,25276,0.91,28,Total,5
-The Netherlands,Men,Overig,Two Parents,20% - 40%,c00_infant_mortality,25276,0.653,51,Total,5
-The Netherlands,Men,Overig,Two Parents,40% - 60%,c00_infant_mortality,25276,0.526,72,Total,5
-The Netherlands,Men,Overig,Two Parents,60% - 80%,c00_infant_mortality,25275,0.451,97,Total,5
-The Netherlands,Men,Overig,Two Parents,80% - 100%,c00_infant_mortality,25272,0.4,170,Total,5
 The Netherlands,Men,With Migration Background,Total,0% - 20%,c00_infant_mortality,48732,1.026,24,Total,5
 The Netherlands,Men,With Migration Background,Total,20% - 40%,c00_infant_mortality,48732,0.813,41,Total,5
 The Netherlands,Men,With Migration Background,Total,40% - 60%,c00_infant_mortality,48732,0.739,60,Total,5
@@ -759,21 +694,6 @@ The Netherlands,Women,Suriname,Two Parents,20% - 40%,c00_infant_mortality,2812,0
 The Netherlands,Women,Suriname,Two Parents,40% - 60%,c00_infant_mortality,2812,0.605,74,Total,5
 The Netherlands,Women,Suriname,Two Parents,60% - 80%,c00_infant_mortality,2812,0.676,95,Total,5
 The Netherlands,Women,Suriname,Two Parents,80% - 100%,c00_infant_mortality,2809,0.392,147,Total,5
-The Netherlands,Women,Overig,Total,0% - 20%,c00_infant_mortality,27764,0.908,24,Total,5
-The Netherlands,Women,Overig,Total,20% - 40%,c00_infant_mortality,27764,0.706,44,Total,5
-The Netherlands,Women,Overig,Total,40% - 60%,c00_infant_mortality,27764,0.519,66,Total,5
-The Netherlands,Women,Overig,Total,60% - 80%,c00_infant_mortality,27762,0.479,91,Total,5
-The Netherlands,Women,Overig,Total,80% - 100%,c00_infant_mortality,27760,0.411,162,Total,5
-The Netherlands,Women,Overig,Single Parent,0% - 20%,c00_infant_mortality,3724,0.752,17,Total,5
-The Netherlands,Women,Overig,Single Parent,20% - 40%,c00_infant_mortality,3724,0.779,25,Total,5
-The Netherlands,Women,Overig,Single Parent,40% - 60%,c00_infant_mortality,3724,0.913,30,Total,5
-The Netherlands,Women,Overig,Single Parent,60% - 80%,c00_infant_mortality,3724,0.591,42,Total,5
-The Netherlands,Women,Overig,Single Parent,80% - 100%,c00_infant_mortality,3724,0.295,85,Total,5
-The Netherlands,Women,Overig,Two Parents,0% - 20%,c00_infant_mortality,23872,0.871,28,Total,5
-The Netherlands,Women,Overig,Two Parents,20% - 40%,c00_infant_mortality,23872,0.574,51,Total,5
-The Netherlands,Women,Overig,Two Parents,40% - 60%,c00_infant_mortality,23872,0.536,72,Total,5
-The Netherlands,Women,Overig,Two Parents,60% - 80%,c00_infant_mortality,23872,0.457,97,Total,5
-The Netherlands,Women,Overig,Two Parents,80% - 100%,c00_infant_mortality,23869,0.415,169,Total,5
 The Netherlands,Women,With Migration Background,Total,0% - 20%,c00_infant_mortality,46236,0.958,24,Total,5
 The Netherlands,Women,With Migration Background,Total,20% - 40%,c00_infant_mortality,46236,0.733,41,Total,5
 The Netherlands,Women,With Migration Background,Total,40% - 60%,c00_infant_mortality,46233,0.636,60,Total,5
@@ -839,21 +759,6 @@ The Netherlands,Total,Suriname,Two Parents,20% - 40%,c00_neonatal_mortality,5728
 The Netherlands,Total,Suriname,Two Parents,40% - 60%,c00_neonatal_mortality,5728,0.418994413407821,74,Total,5
 The Netherlands,Total,Suriname,Two Parents,60% - 80%,c00_neonatal_mortality,5728,0.645949720670391,94,Total,5
 The Netherlands,Total,Suriname,Two Parents,80% - 100%,c00_neonatal_mortality,5724,0.384346610761705,146,Total,5
-The Netherlands,Total,Overig,Total,0% - 20%,c00_neonatal_mortality,57136,0.824348921870624,24,Total,5
-The Netherlands,Total,Overig,Total,20% - 40%,c00_neonatal_mortality,57136,0.591570988518622,44,Total,5
-The Netherlands,Total,Overig,Total,40% - 60%,c00_neonatal_mortality,57136,0.486558387006441,65,Total,5
-The Netherlands,Total,Overig,Total,60% - 80%,c00_neonatal_mortality,57133,0.392066774260898,91,Total,5
-The Netherlands,Total,Overig,Total,80% - 100%,c00_neonatal_mortality,57132,0.343065182384653,163,Total,5
-The Netherlands,Total,Overig,Single Parent,0% - 20%,c00_neonatal_mortality,7656,0.535527690700105,16,Total,5
-The Netherlands,Total,Overig,Single Parent,20% - 40%,c00_neonatal_mortality,7656,0.822884012539185,25,Total,5
-The Netherlands,Total,Overig,Single Parent,40% - 60%,c00_neonatal_mortality,7653,0.797122585881892,30,Total,5
-The Netherlands,Total,Overig,Single Parent,60% - 80%,c00_neonatal_mortality,7652,0.444328280188186,42,Total,5
-The Netherlands,Total,Overig,Single Parent,80% - 100%,c00_neonatal_mortality,7652,0.313643491897543,87,Total,5
-The Netherlands,Total,Overig,Two Parents,0% - 20%,c00_neonatal_mortality,49148,0.728412142915276,28,Total,5
-The Netherlands,Total,Overig,Two Parents,20% - 40%,c00_neonatal_mortality,49148,0.533083747049727,51,Total,5
-The Netherlands,Total,Overig,Two Parents,40% - 60%,c00_neonatal_mortality,49148,0.465939610970945,72,Total,5
-The Netherlands,Total,Overig,Two Parents,60% - 80%,c00_neonatal_mortality,49144,0.368305388246785,97,Total,5
-The Netherlands,Total,Overig,Two Parents,80% - 100%,c00_neonatal_mortality,49144,0.335748005860329,170,Total,5
 The Netherlands,Total,With Migration Background,Total,0% - 20%,c00_neonatal_mortality,94968,0.806587482099233,24,Total,5
 The Netherlands,Total,With Migration Background,Total,20% - 40%,c00_neonatal_mortality,94967,0.659175924332468,41,Total,5
 The Netherlands,Total,With Migration Background,Total,40% - 60%,c00_neonatal_mortality,94964,0.581272903416031,60,Total,5
@@ -914,21 +819,6 @@ The Netherlands,Men,Suriname,Two Parents,20% - 40%,c00_neonatal_mortality,2916,0
 The Netherlands,Men,Suriname,Two Parents,40% - 60%,c00_neonatal_mortality,2916,0.51440329218107,74,Total,5
 The Netherlands,Men,Suriname,Two Parents,60% - 80%,c00_neonatal_mortality,2916,0.548696844993141,94,Total,5
 The Netherlands,Men,Suriname,Two Parents,80% - 100%,c00_neonatal_mortality,2915,0.548885271107493,145,Total,5
-The Netherlands,Men,Overig,Total,0% - 20%,c00_neonatal_mortality,29372,0.871578373961596,24,Total,5
-The Netherlands,Men,Overig,Total,20% - 40%,c00_neonatal_mortality,29372,0.585591720005447,44,Total,5
-The Netherlands,Men,Overig,Total,40% - 60%,c00_neonatal_mortality,29372,0.51409505651641,65,Total,5
-The Netherlands,Men,Overig,Total,60% - 80%,c00_neonatal_mortality,29372,0.371101729538336,91,Total,5
-The Netherlands,Men,Overig,Total,80% - 100%,c00_neonatal_mortality,29371,0.350685240583105,163,Total,5
-The Netherlands,Men,Overig,Single Parent,0% - 20%,c00_neonatal_mortality,3932,0.559511698880977,16,Total,5
-The Netherlands,Men,Overig,Single Parent,20% - 40%,c00_neonatal_mortality,3932,0.915564598168871,25,Total,5
-The Netherlands,Men,Overig,Single Parent,40% - 60%,c00_neonatal_mortality,3929,0.789128007077548,30,Total,5
-The Netherlands,Men,Overig,Single Parent,60% - 80%,c00_neonatal_mortality,3928,0.483706720977597,42,Total,5
-The Netherlands,Men,Overig,Single Parent,80% - 100%,c00_neonatal_mortality,3928,0.458248472505092,89,Total,5
-The Netherlands,Men,Overig,Two Parents,0% - 20%,c00_neonatal_mortality,25276,0.724006963127077,28,Total,5
-The Netherlands,Men,Overig,Two Parents,20% - 40%,c00_neonatal_mortality,25276,0.557841430606109,51,Total,5
-The Netherlands,Men,Overig,Two Parents,40% - 60%,c00_neonatal_mortality,25276,0.451020731128343,72,Total,5
-The Netherlands,Men,Overig,Two Parents,60% - 80%,c00_neonatal_mortality,25275,0.352131462011717,97,Total,5
-The Netherlands,Men,Overig,Two Parents,80% - 100%,c00_neonatal_mortality,25272,0.328426717315606,170,Total,5
 The Netherlands,Men,With Migration Background,Total,0% - 20%,c00_neonatal_mortality,48732,0.824919970450628,24,Total,5
 The Netherlands,Men,With Migration Background,Total,20% - 40%,c00_neonatal_mortality,48732,0.687433308708857,41,Total,5
 The Netherlands,Men,With Migration Background,Total,40% - 60%,c00_neonatal_mortality,48732,0.619715997701715,60,Total,5
@@ -984,16 +874,6 @@ The Netherlands,Women,Suriname,Total,20% - 40%,c00_neonatal_mortality,4316,0.787
 The Netherlands,Women,Suriname,Total,40% - 60%,c00_neonatal_mortality,4316,0.741427247451344,59,Total,5
 The Netherlands,Women,Suriname,Total,60% - 80%,c00_neonatal_mortality,4316,0.579240037071362,82,Total,5
 The Netherlands,Women,Suriname,Total,80% - 100%,c00_neonatal_mortality,4315,0.417095812965004,133,Total,5
-The Netherlands,Women,Overig,Total,0% - 20%,c00_neonatal_mortality,27764,0.774384094510877,24,Total,5
-The Netherlands,Women,Overig,Total,20% - 40%,c00_neonatal_mortality,27764,0.597896556692119,44,Total,5
-The Netherlands,Women,Overig,Total,40% - 60%,c00_neonatal_mortality,27764,0.457426883734332,66,Total,5
-The Netherlands,Women,Overig,Total,60% - 80%,c00_neonatal_mortality,27762,0.41423295233975,91,Total,5
-The Netherlands,Women,Overig,Total,80% - 100%,c00_neonatal_mortality,27760,0.335014409221902,162,Total,5
-The Netherlands,Women,Overig,Two Parents,0% - 20%,c00_neonatal_mortality,23872,0.737265415549598,28,Total,5
-The Netherlands,Women,Overig,Two Parents,20% - 40%,c00_neonatal_mortality,23872,0.498491957104558,51,Total,5
-The Netherlands,Women,Overig,Two Parents,40% - 60%,c00_neonatal_mortality,23872,0.485924932975871,72,Total,5
-The Netherlands,Women,Overig,Two Parents,60% - 80%,c00_neonatal_mortality,23872,0.389577747989276,97,Total,5
-The Netherlands,Women,Overig,Two Parents,80% - 100%,c00_neonatal_mortality,23869,0.33935598539959,169,Total,5
 The Netherlands,Women,With Migration Background,Total,0% - 20%,c00_neonatal_mortality,46236,0.787265334371485,24,Total,5
 The Netherlands,Women,With Migration Background,Total,20% - 40%,c00_neonatal_mortality,46236,0.627216887273986,41,Total,5
 The Netherlands,Women,With Migration Background,Total,40% - 60%,c00_neonatal_mortality,46233,0.545062594142788,60,Total,5
@@ -1059,21 +939,6 @@ The Netherlands,Total,Suriname,Two Parents,20% - 40%,c00_perinatal_mortality,572
 The Netherlands,Total,Suriname,Two Parents,40% - 60%,c00_perinatal_mortality,5728,0.349162011173184,74,Total,5
 The Netherlands,Total,Suriname,Two Parents,60% - 80%,c00_perinatal_mortality,5728,0.645949720670391,94,Total,5
 The Netherlands,Total,Suriname,Two Parents,80% - 100%,c00_perinatal_mortality,5724,0.262054507337526,146,Total,5
-The Netherlands,Total,Overig,Total,0% - 20%,c00_perinatal_mortality,57136,0.714085690282834,24,Total,5
-The Netherlands,Total,Overig,Total,20% - 40%,c00_perinatal_mortality,57136,0.511061327359283,44,Total,5
-The Netherlands,Total,Overig,Total,40% - 60%,c00_perinatal_mortality,57136,0.402548305796696,65,Total,5
-The Netherlands,Total,Overig,Total,60% - 80%,c00_perinatal_mortality,57133,0.325555239701648,91,Total,5
-The Netherlands,Total,Overig,Total,80% - 100%,c00_perinatal_mortality,57132,0.288804872925856,163,Total,5
-The Netherlands,Total,Overig,Single Parent,0% - 20%,c00_perinatal_mortality,7656,0.470219435736677,16,Total,5
-The Netherlands,Total,Overig,Single Parent,20% - 40%,c00_perinatal_mortality,7656,0.653082549634274,25,Total,5
-The Netherlands,Total,Overig,Single Parent,40% - 60%,c00_perinatal_mortality,7653,0.653376146598563,30,Total,5
-The Netherlands,Total,Overig,Single Parent,60% - 80%,c00_perinatal_mortality,7652,0.313643491897543,42,Total,5
-The Netherlands,Total,Overig,Single Parent,80% - 100%,c00_perinatal_mortality,7652,0.222164140094093,87,Total,5
-The Netherlands,Total,Overig,Two Parents,0% - 20%,c00_perinatal_mortality,49148,0.632782615772768,28,Total,5
-The Netherlands,Total,Overig,Two Parents,20% - 40%,c00_perinatal_mortality,49148,0.470008952551477,51,Total,5
-The Netherlands,Total,Overig,Two Parents,40% - 60%,c00_perinatal_mortality,49148,0.380483437779767,72,Total,5
-The Netherlands,Total,Overig,Two Parents,60% - 80%,c00_perinatal_mortality,49144,0.301155787074719,97,Total,5
-The Netherlands,Total,Overig,Two Parents,80% - 100%,c00_perinatal_mortality,49144,0.282842259482338,170,Total,5
 The Netherlands,Total,With Migration Background,Total,0% - 20%,c00_perinatal_mortality,94968,0.700235868924269,24,Total,5
 The Netherlands,Total,With Migration Background,Total,20% - 40%,c00_perinatal_mortality,94967,0.562299901339963,41,Total,5
 The Netherlands,Total,With Migration Background,Total,40% - 60%,c00_perinatal_mortality,94964,0.503348637378375,60,Total,5
@@ -1134,21 +999,6 @@ The Netherlands,Men,Suriname,Two Parents,20% - 40%,c00_perinatal_mortality,2916,
 The Netherlands,Men,Suriname,Two Parents,40% - 60%,c00_perinatal_mortality,2916,0.445816186556927,74,Total,5
 The Netherlands,Men,Suriname,Two Parents,60% - 80%,c00_perinatal_mortality,2916,0.548696844993141,94,Total,5
 The Netherlands,Men,Suriname,Two Parents,80% - 100%,c00_perinatal_mortality,2915,0.480298165483351,145,Total,5
-The Netherlands,Men,Overig,Total,0% - 20%,c00_perinatal_mortality,29372,0.749012665123247,24,Total,5
-The Netherlands,Men,Overig,Total,20% - 40%,c00_perinatal_mortality,29372,0.51409505651641,44,Total,5
-The Netherlands,Men,Overig,Total,40% - 60%,c00_perinatal_mortality,29372,0.422170774887648,65,Total,5
-The Netherlands,Men,Overig,Total,60% - 80%,c00_perinatal_mortality,29372,0.303009669072586,91,Total,5
-The Netherlands,Men,Overig,Total,80% - 100%,c00_perinatal_mortality,29371,0.292803743175074,163,Total,5
-The Netherlands,Men,Overig,Single Parent,0% - 20%,c00_perinatal_mortality,3932,0.508646998982706,16,Total,5
-The Netherlands,Men,Overig,Single Parent,20% - 40%,c00_perinatal_mortality,3932,0.635808748728383,25,Total,5
-The Netherlands,Men,Overig,Single Parent,40% - 60%,c00_perinatal_mortality,3929,0.687295013187528,30,Total,5
-The Netherlands,Men,Overig,Single Parent,60% - 80%,c00_perinatal_mortality,3928,0.356415478615071,42,Total,5
-The Netherlands,Men,Overig,Single Parent,80% - 100%,c00_perinatal_mortality,3928,0.305498981670061,89,Total,5
-The Netherlands,Men,Overig,Two Parents,0% - 20%,c00_perinatal_mortality,25276,0.629055230257952,28,Total,5
-The Netherlands,Men,Overig,Two Parents,20% - 40%,c00_perinatal_mortality,25276,0.502452919765786,51,Total,5
-The Netherlands,Men,Overig,Two Parents,40% - 60%,c00_perinatal_mortality,25276,0.367937964867859,72,Total,5
-The Netherlands,Men,Overig,Two Parents,60% - 80%,c00_perinatal_mortality,25275,0.27695820916443,97,Total,5
-The Netherlands,Men,Overig,Two Parents,80% - 100%,c00_perinatal_mortality,25272,0.273029439696106,170,Total,5
 The Netherlands,Men,With Migration Background,Total,0% - 20%,c00_perinatal_mortality,48732,0.710005745711237,24,Total,5
 The Netherlands,Men,With Migration Background,Total,20% - 40%,c00_perinatal_mortality,48732,0.5848313223344,41,Total,5
 The Netherlands,Men,With Migration Background,Total,40% - 60%,c00_perinatal_mortality,48732,0.537634408602151,60,Total,5
@@ -1204,16 +1054,6 @@ The Netherlands,Women,Suriname,Total,20% - 40%,c00_perinatal_mortality,4316,0.69
 The Netherlands,Women,Suriname,Total,40% - 60%,c00_perinatal_mortality,4316,0.579240037071362,59,Total,5
 The Netherlands,Women,Suriname,Total,60% - 80%,c00_perinatal_mortality,4316,0.532900834105653,82,Total,5
 The Netherlands,Women,Suriname,Total,80% - 100%,c00_perinatal_mortality,4315,0.30122631241392,133,Total,5
-The Netherlands,Women,Overig,Total,0% - 20%,c00_perinatal_mortality,27764,0.677135859386256,24,Total,5
-The Netherlands,Women,Overig,Total,20% - 40%,c00_perinatal_mortality,27764,0.507851894539692,44,Total,5
-The Netherlands,Women,Overig,Total,40% - 60%,c00_perinatal_mortality,27764,0.381789367526293,66,Total,5
-The Netherlands,Women,Overig,Total,60% - 80%,c00_perinatal_mortality,27762,0.349397162664151,91,Total,5
-The Netherlands,Women,Overig,Total,80% - 100%,c00_perinatal_mortality,27760,0.284582132564841,162,Total,5
-The Netherlands,Women,Overig,Two Parents,0% - 20%,c00_perinatal_mortality,23872,0.640918230563003,28,Total,5
-The Netherlands,Women,Overig,Two Parents,20% - 40%,c00_perinatal_mortality,23872,0.427278820375335,51,Total,5
-The Netherlands,Women,Overig,Two Parents,40% - 60%,c00_perinatal_mortality,23872,0.397955764075067,72,Total,5
-The Netherlands,Women,Overig,Two Parents,60% - 80%,c00_perinatal_mortality,23872,0.326742627345845,97,Total,5
-The Netherlands,Women,Overig,Two Parents,80% - 100%,c00_perinatal_mortality,23869,0.293270578665233,169,Total,5
 The Netherlands,Women,With Migration Background,Total,0% - 20%,c00_perinatal_mortality,46236,0.689938576001384,24,Total,5
 The Netherlands,Women,With Migration Background,Total,20% - 40%,c00_perinatal_mortality,46236,0.536378579461891,41,Total,5
 The Netherlands,Women,With Migration Background,Total,40% - 60%,c00_perinatal_mortality,46233,0.471521955843326,60,Total,5
