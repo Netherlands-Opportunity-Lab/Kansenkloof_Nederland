@@ -339,36 +339,6 @@ Nederland,Totaal,Suriname,Tweeoudergezin,60% - 70%,c00_infant_mortality,2864,0.8
 Nederland,Totaal,Suriname,Tweeoudergezin,70% - 80%,c00_infant_mortality,2864,0.628,100,Totaal,10
 Nederland,Totaal,Suriname,Tweeoudergezin,80% - 90%,c00_infant_mortality,2862,0.384,118,Totaal,10
 Nederland,Totaal,Suriname,Tweeoudergezin,90% - 100%,c00_infant_mortality,2862,0.629,174,Totaal,10
-Nederland,Totaal,Overig,Totaal,0% - 10%,c00_infant_mortality,28568,1.019,19,Totaal,10
-Nederland,Totaal,Overig,Totaal,10% - 20%,c00_infant_mortality,28568,0.987,29,Totaal,10
-Nederland,Totaal,Overig,Totaal,20% - 30%,c00_infant_mortality,28568,0.763,38,Totaal,10
-Nederland,Totaal,Overig,Totaal,30% - 40%,c00_infant_mortality,28568,0.648,49,Totaal,10
-Nederland,Totaal,Overig,Totaal,40% - 50%,c00_infant_mortality,28568,0.56,60,Totaal,10
-Nederland,Totaal,Overig,Totaal,50% - 60%,c00_infant_mortality,28568,0.564,71,Totaal,10
-Nederland,Totaal,Overig,Totaal,60% - 70%,c00_infant_mortality,28567,0.508,84,Totaal,10
-Nederland,Totaal,Overig,Totaal,70% - 80%,c00_infant_mortality,28566,0.434,99,Totaal,10
-Nederland,Totaal,Overig,Totaal,80% - 90%,c00_infant_mortality,28566,0.448,122,Totaal,10
-Nederland,Totaal,Overig,Totaal,90% - 100%,c00_infant_mortality,28566,0.382,203,Totaal,10
-Nederland,Totaal,Overig,Eenoudergezin,0% - 10%,c00_infant_mortality,3828,0.705,13,Totaal,10
-Nederland,Totaal,Overig,Eenoudergezin,10% - 20%,c00_infant_mortality,3828,0.888,20,Totaal,10
-Nederland,Totaal,Overig,Eenoudergezin,20% - 30%,c00_infant_mortality,3828,0.705,24,Totaal,10
-Nederland,Totaal,Overig,Eenoudergezin,30% - 40%,c00_infant_mortality,3828,1.254,26,Totaal,10
-Nederland,Totaal,Overig,Eenoudergezin,40% - 50%,c00_infant_mortality,3827,0.836,29,Totaal,10
-Nederland,Totaal,Overig,Eenoudergezin,50% - 60%,c00_infant_mortality,3826,1.124,32,Totaal,10
-Nederland,Totaal,Overig,Eenoudergezin,60% - 70%,c00_infant_mortality,3826,0.549,37,Totaal,10
-Nederland,Totaal,Overig,Eenoudergezin,70% - 80%,c00_infant_mortality,3826,0.68,46,Totaal,10
-Nederland,Totaal,Overig,Eenoudergezin,80% - 90%,c00_infant_mortality,3826,0.575,61,Totaal,10
-Nederland,Totaal,Overig,Eenoudergezin,90% - 100%,c00_infant_mortality,3826,0.261,113,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,0% - 10%,c00_infant_mortality,24574,0.964,22,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,10% - 20%,c00_infant_mortality,24574,0.814,34,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,20% - 30%,c00_infant_mortality,24574,0.602,46,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,30% - 40%,c00_infant_mortality,24574,0.635,56,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,40% - 50%,c00_infant_mortality,24574,0.509,66,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,50% - 60%,c00_infant_mortality,24574,0.549,77,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,60% - 70%,c00_infant_mortality,24572,0.46,89,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,70% - 80%,c00_infant_mortality,24572,0.444,105,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,80% - 90%,c00_infant_mortality,24572,0.44,128,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,90% - 100%,c00_infant_mortality,24572,0.378,211,Totaal,10
 Nederland,Totaal,Wel migratieachtergrond,Totaal,0% - 10%,c00_infant_mortality,47484,1.005,19,Totaal,10
 Nederland,Totaal,Wel migratieachtergrond,Totaal,10% - 20%,c00_infant_mortality,47484,0.983,29,Totaal,10
 Nederland,Totaal,Wel migratieachtergrond,Totaal,20% - 30%,c00_infant_mortality,47484,0.832,36,Totaal,10
@@ -479,26 +449,6 @@ Nederland,Mannen,Suriname,Totaal,60% - 70%,c00_infant_mortality,2228,0.583,75,To
 Nederland,Mannen,Suriname,Totaal,70% - 80%,c00_infant_mortality,2228,0.763,88,Totaal,10
 Nederland,Mannen,Suriname,Totaal,80% - 90%,c00_infant_mortality,2228,0.583,106,Totaal,10
 Nederland,Mannen,Suriname,Totaal,90% - 100%,c00_infant_mortality,2226,0.809,159,Totaal,10
-Nederland,Mannen,Overig,Totaal,0% - 10%,c00_infant_mortality,14686,1.069,19,Totaal,10
-Nederland,Mannen,Overig,Totaal,10% - 20%,c00_infant_mortality,14686,1.117,29,Totaal,10
-Nederland,Mannen,Overig,Totaal,20% - 30%,c00_infant_mortality,14686,0.783,38,Totaal,10
-Nederland,Mannen,Overig,Totaal,30% - 40%,c00_infant_mortality,14686,0.626,49,Totaal,10
-Nederland,Mannen,Overig,Totaal,40% - 50%,c00_infant_mortality,14686,0.626,60,Totaal,10
-Nederland,Mannen,Overig,Totaal,50% - 60%,c00_infant_mortality,14686,0.579,71,Totaal,10
-Nederland,Mannen,Overig,Totaal,60% - 70%,c00_infant_mortality,14686,0.511,84,Totaal,10
-Nederland,Mannen,Overig,Totaal,70% - 80%,c00_infant_mortality,14686,0.415,99,Totaal,10
-Nederland,Mannen,Overig,Totaal,80% - 90%,c00_infant_mortality,14686,0.443,123,Totaal,10
-Nederland,Mannen,Overig,Totaal,90% - 100%,c00_infant_mortality,14685,0.395,204,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,0% - 10%,c00_infant_mortality,12638,0.989,22,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,10% - 20%,c00_infant_mortality,12638,0.831,34,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,20% - 30%,c00_infant_mortality,12638,0.633,46,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,30% - 40%,c00_infant_mortality,12638,0.673,56,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,40% - 50%,c00_infant_mortality,12638,0.506,66,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,50% - 60%,c00_infant_mortality,12638,0.546,77,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,60% - 70%,c00_infant_mortality,12638,0.483,89,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,70% - 80%,c00_infant_mortality,12637,0.419,105,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,80% - 90%,c00_infant_mortality,12636,0.404,128,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,90% - 100%,c00_infant_mortality,12636,0.396,211,Totaal,10
 Nederland,Mannen,Wel migratieachtergrond,Totaal,0% - 10%,c00_infant_mortality,24366,0.985,19,Totaal,10
 Nederland,Mannen,Wel migratieachtergrond,Totaal,10% - 20%,c00_infant_mortality,24366,1.067,29,Totaal,10
 Nederland,Mannen,Wel migratieachtergrond,Totaal,20% - 30%,c00_infant_mortality,24366,0.874,36,Totaal,10
@@ -599,26 +549,6 @@ Nederland,Vrouwen,Marokko,Tweeoudergezin,60% - 70%,c00_infant_mortality,2920,0.8
 Nederland,Vrouwen,Marokko,Tweeoudergezin,70% - 80%,c00_infant_mortality,2920,0.753,76,Totaal,10
 Nederland,Vrouwen,Marokko,Tweeoudergezin,80% - 90%,c00_infant_mortality,2920,0.89,90,Totaal,10
 Nederland,Vrouwen,Marokko,Tweeoudergezin,90% - 100%,c00_infant_mortality,2920,0.514,132,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,0% - 10%,c00_infant_mortality,13882,0.951,19,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,10% - 20%,c00_infant_mortality,13882,0.864,29,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,20% - 30%,c00_infant_mortality,13882,0.742,38,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,30% - 40%,c00_infant_mortality,13882,0.67,49,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,40% - 50%,c00_infant_mortality,13882,0.49,60,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,50% - 60%,c00_infant_mortality,13882,0.547,71,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,60% - 70%,c00_infant_mortality,13882,0.504,84,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,70% - 80%,c00_infant_mortality,13880,0.454,99,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,80% - 90%,c00_infant_mortality,13880,0.447,122,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,90% - 100%,c00_infant_mortality,13880,0.375,203,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,0% - 10%,c00_infant_mortality,11936,0.938,22,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,10% - 20%,c00_infant_mortality,11936,0.804,34,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,20% - 30%,c00_infant_mortality,11936,0.57,46,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,30% - 40%,c00_infant_mortality,11936,0.578,56,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,40% - 50%,c00_infant_mortality,11936,0.561,67,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,50% - 60%,c00_infant_mortality,11936,0.511,77,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,60% - 70%,c00_infant_mortality,11936,0.444,89,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,70% - 80%,c00_infant_mortality,11936,0.469,105,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,80% - 90%,c00_infant_mortality,11935,0.469,128,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,90% - 100%,c00_infant_mortality,11934,0.36,211,Totaal,10
 Nederland,Vrouwen,Wel migratieachtergrond,Totaal,0% - 10%,c00_infant_mortality,23118,1.012,19,Totaal,10
 Nederland,Vrouwen,Wel migratieachtergrond,Totaal,10% - 20%,c00_infant_mortality,23118,0.904,29,Totaal,10
 Nederland,Vrouwen,Wel migratieachtergrond,Totaal,20% - 30%,c00_infant_mortality,23118,0.792,36,Totaal,10
@@ -729,26 +659,6 @@ Nederland,Totaal,Suriname,Totaal,60% - 70%,c00_neonatal_mortality,4386,0.5471956
 Nederland,Totaal,Suriname,Totaal,70% - 80%,c00_neonatal_mortality,4386,0.638394892840857,88,Totaal,10
 Nederland,Totaal,Suriname,Totaal,80% - 90%,c00_neonatal_mortality,4385,0.501679198245246,106,Totaal,10
 Nederland,Totaal,Suriname,Totaal,90% - 100%,c00_neonatal_mortality,4384,0.501824817518248,160,Totaal,10
-Nederland,Totaal,Overig,Totaal,0% - 10%,c00_neonatal_mortality,28568,0.85060207224867,19,Totaal,10
-Nederland,Totaal,Overig,Totaal,10% - 20%,c00_neonatal_mortality,28568,0.798095771492579,29,Totaal,10
-Nederland,Totaal,Overig,Totaal,20% - 30%,c00_neonatal_mortality,28568,0.644077289274713,38,Totaal,10
-Nederland,Totaal,Overig,Totaal,30% - 40%,c00_neonatal_mortality,28568,0.539064687762531,49,Totaal,10
-Nederland,Totaal,Overig,Totaal,40% - 50%,c00_neonatal_mortality,28568,0.483057966956035,60,Totaal,10
-Nederland,Totaal,Overig,Totaal,50% - 60%,c00_neonatal_mortality,28568,0.490058807056847,71,Totaal,10
-Nederland,Totaal,Overig,Totaal,60% - 70%,c00_neonatal_mortality,28567,0.430566370758022,84,Totaal,10
-Nederland,Totaal,Overig,Totaal,70% - 80%,c00_neonatal_mortality,28566,0.353567177763775,99,Totaal,10
-Nederland,Totaal,Overig,Totaal,80% - 90%,c00_neonatal_mortality,28566,0.367569838269271,122,Totaal,10
-Nederland,Totaal,Overig,Totaal,90% - 100%,c00_neonatal_mortality,28566,0.318560526500035,203,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,0% - 10%,c00_neonatal_mortality,24574,0.801660291364857,22,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,10% - 20%,c00_neonatal_mortality,24574,0.655163994465696,34,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,20% - 30%,c00_neonatal_mortality,24574,0.529014405469195,46,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,30% - 40%,c00_neonatal_mortality,24574,0.53715308863026,56,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,40% - 50%,c00_neonatal_mortality,24574,0.459835598600146,66,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,50% - 60%,c00_neonatal_mortality,24574,0.472043623341743,77,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,60% - 70%,c00_neonatal_mortality,24572,0.378479570242553,89,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,70% - 80%,c00_neonatal_mortality,24572,0.358131206251017,105,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,80% - 90%,c00_neonatal_mortality,24572,0.362200879049324,128,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,90% - 100%,c00_neonatal_mortality,24572,0.309295132671333,211,Totaal,10
 Nederland,Totaal,Wel migratieachtergrond,Totaal,0% - 10%,c00_neonatal_mortality,47484,0.819223317327942,19,Totaal,10
 Nederland,Totaal,Wel migratieachtergrond,Totaal,10% - 20%,c00_neonatal_mortality,47484,0.793951646870525,29,Totaal,10
 Nederland,Totaal,Wel migratieachtergrond,Totaal,20% - 30%,c00_neonatal_mortality,47484,0.690758992502738,36,Totaal,10
@@ -849,26 +759,6 @@ Nederland,Mannen,Marokko,Tweeoudergezin,60% - 70%,c00_neonatal_mortality,3056,0.
 Nederland,Mannen,Marokko,Tweeoudergezin,70% - 80%,c00_neonatal_mortality,3056,0.621727748691099,77,Totaal,10
 Nederland,Mannen,Marokko,Tweeoudergezin,80% - 90%,c00_neonatal_mortality,3056,0.785340314136126,90,Totaal,10
 Nederland,Mannen,Marokko,Tweeoudergezin,90% - 100%,c00_neonatal_mortality,3055,0.556411298203026,130,Totaal,10
-Nederland,Mannen,Overig,Totaal,0% - 10%,c00_neonatal_mortality,14686,0.885196786054746,19,Totaal,10
-Nederland,Mannen,Overig,Totaal,10% - 20%,c00_neonatal_mortality,14686,0.857959961868446,29,Totaal,10
-Nederland,Mannen,Overig,Totaal,20% - 30%,c00_neonatal_mortality,14686,0.653683780471197,38,Totaal,10
-Nederland,Mannen,Overig,Totaal,30% - 40%,c00_neonatal_mortality,14686,0.517499659539698,49,Totaal,10
-Nederland,Mannen,Overig,Totaal,40% - 50%,c00_neonatal_mortality,14686,0.551545689772573,60,Totaal,10
-Nederland,Mannen,Overig,Totaal,50% - 60%,c00_neonatal_mortality,14686,0.476644423260248,71,Totaal,10
-Nederland,Mannen,Overig,Totaal,60% - 70%,c00_neonatal_mortality,14686,0.415361568841073,84,Totaal,10
-Nederland,Mannen,Overig,Totaal,70% - 80%,c00_neonatal_mortality,14686,0.326841890235599,99,Totaal,10
-Nederland,Mannen,Overig,Totaal,80% - 90%,c00_neonatal_mortality,14686,0.381315538608198,123,Totaal,10
-Nederland,Mannen,Overig,Totaal,90% - 100%,c00_neonatal_mortality,14685,0.320054942558013,204,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,0% - 10%,c00_neonatal_mortality,12638,0.807089729387561,22,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,10% - 20%,c00_neonatal_mortality,12638,0.640924196866593,34,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,20% - 30%,c00_neonatal_mortality,12638,0.553885108403228,46,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,30% - 40%,c00_neonatal_mortality,12638,0.561797752808989,56,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,40% - 50%,c00_neonatal_mortality,12638,0.451020731128343,66,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,50% - 60%,c00_neonatal_mortality,12638,0.451020731128343,77,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,60% - 70%,c00_neonatal_mortality,12638,0.371894287070739,89,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,70% - 80%,c00_neonatal_mortality,12637,0.332368636952696,105,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,80% - 90%,c00_neonatal_mortality,12636,0.34821145932257,128,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,90% - 100%,c00_neonatal_mortality,12636,0.308641975308642,211,Totaal,10
 Nederland,Mannen,Wel migratieachtergrond,Totaal,0% - 10%,c00_neonatal_mortality,24366,0.812607732085693,19,Totaal,10
 Nederland,Mannen,Wel migratieachtergrond,Totaal,10% - 20%,c00_neonatal_mortality,24366,0.837232208815563,29,Totaal,10
 Nederland,Mannen,Wel migratieachtergrond,Totaal,20% - 30%,c00_neonatal_mortality,24366,0.714109825166215,36,Totaal,10
@@ -959,26 +849,6 @@ Nederland,Vrouwen,Marokko,Tweeoudergezin,60% - 70%,c00_neonatal_mortality,2920,0
 Nederland,Vrouwen,Marokko,Tweeoudergezin,70% - 80%,c00_neonatal_mortality,2920,0.684931506849315,76,Totaal,10
 Nederland,Vrouwen,Marokko,Tweeoudergezin,80% - 90%,c00_neonatal_mortality,2920,0.753424657534246,90,Totaal,10
 Nederland,Vrouwen,Marokko,Tweeoudergezin,90% - 100%,c00_neonatal_mortality,2920,0.47945205479452,132,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,0% - 10%,c00_neonatal_mortality,13882,0.806800172885751,19,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,10% - 20%,c00_neonatal_mortality,13882,0.741968016136003,29,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,20% - 30%,c00_neonatal_mortality,13882,0.63391442155309,38,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,30% - 40%,c00_neonatal_mortality,13882,0.561878691831148,49,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,40% - 50%,c00_neonatal_mortality,13882,0.41060365941507,60,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,50% - 60%,c00_neonatal_mortality,13882,0.504250108053595,71,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,60% - 70%,c00_neonatal_mortality,13882,0.446621524276041,84,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,70% - 80%,c00_neonatal_mortality,13880,0.381844380403458,99,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,80% - 90%,c00_neonatal_mortality,13880,0.345821325648415,122,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,90% - 100%,c00_neonatal_mortality,13880,0.324207492795389,203,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,0% - 10%,c00_neonatal_mortality,11936,0.795911528150134,22,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,10% - 20%,c00_neonatal_mortality,11936,0.678619302949062,34,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,20% - 30%,c00_neonatal_mortality,11936,0.494302949061662,46,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,30% - 40%,c00_neonatal_mortality,11936,0.502680965147453,56,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,40% - 50%,c00_neonatal_mortality,11936,0.519436997319035,67,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,50% - 60%,c00_neonatal_mortality,11936,0.452412868632708,77,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,60% - 70%,c00_neonatal_mortality,11936,0.393766756032172,89,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,70% - 80%,c00_neonatal_mortality,11936,0.385388739946381,105,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,80% - 90%,c00_neonatal_mortality,11935,0.368673425466518,128,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,90% - 100%,c00_neonatal_mortality,11934,0.310038545332663,211,Totaal,10
 Nederland,Vrouwen,Wel migratieachtergrond,Totaal,0% - 10%,c00_neonatal_mortality,23118,0.81754477030885,19,Totaal,10
 Nederland,Vrouwen,Wel migratieachtergrond,Totaal,10% - 20%,c00_neonatal_mortality,23118,0.756985898434121,29,Totaal,10
 Nederland,Vrouwen,Wel migratieachtergrond,Totaal,20% - 30%,c00_neonatal_mortality,23118,0.666147590622026,36,Totaal,10
@@ -1089,26 +959,6 @@ Nederland,Totaal,Suriname,Totaal,60% - 70%,c00_perinatal_mortality,4386,0.478796
 Nederland,Totaal,Suriname,Totaal,70% - 80%,c00_perinatal_mortality,4386,0.592795257637939,88,Totaal,10
 Nederland,Totaal,Suriname,Totaal,80% - 90%,c00_perinatal_mortality,4385,0.456058760289042,106,Totaal,10
 Nederland,Totaal,Suriname,Totaal,90% - 100%,c00_perinatal_mortality,4384,0.387773722627737,160,Totaal,10
-Nederland,Totaal,Overig,Totaal,0% - 10%,c00_perinatal_mortality,28568,0.7525903108373,19,Totaal,10
-Nederland,Totaal,Overig,Totaal,10% - 20%,c00_perinatal_mortality,28568,0.675581069728367,29,Totaal,10
-Nederland,Totaal,Overig,Totaal,20% - 30%,c00_perinatal_mortality,28568,0.56706804816578,38,Totaal,10
-Nederland,Totaal,Overig,Totaal,30% - 40%,c00_perinatal_mortality,28568,0.455054606552786,49,Totaal,10
-Nederland,Totaal,Overig,Totaal,40% - 50%,c00_perinatal_mortality,28568,0.413049565947914,60,Totaal,10
-Nederland,Totaal,Overig,Totaal,50% - 60%,c00_perinatal_mortality,28568,0.392047045645477,71,Totaal,10
-Nederland,Totaal,Overig,Totaal,60% - 70%,c00_perinatal_mortality,28567,0.346552613408757,84,Totaal,10
-Nederland,Totaal,Overig,Totaal,70% - 80%,c00_perinatal_mortality,28566,0.304557865994539,99,Totaal,10
-Nederland,Totaal,Overig,Totaal,80% - 90%,c00_perinatal_mortality,28566,0.325561856752783,122,Totaal,10
-Nederland,Totaal,Overig,Totaal,90% - 100%,c00_perinatal_mortality,28566,0.252047889098929,203,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,0% - 10%,c00_perinatal_mortality,24574,0.703996093432083,22,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,10% - 20%,c00_perinatal_mortality,24574,0.561569138113453,34,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,20% - 30%,c00_perinatal_mortality,24574,0.463904940180679,46,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,30% - 40%,c00_perinatal_mortality,24574,0.476112964922276,56,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,40% - 50%,c00_perinatal_mortality,24574,0.374379425408969,66,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,50% - 60%,c00_perinatal_mortality,24574,0.386587450150566,77,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,60% - 70%,c00_perinatal_mortality,24572,0.309295132671333,89,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,70% - 80%,c00_perinatal_mortality,24572,0.293016441478105,105,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,80% - 90%,c00_perinatal_mortality,24572,0.321504151066254,128,Totaal,10
-Nederland,Totaal,Overig,Tweeoudergezin,90% - 100%,c00_perinatal_mortality,24572,0.244180367898421,211,Totaal,10
 Nederland,Totaal,Wel migratieachtergrond,Totaal,0% - 10%,c00_perinatal_mortality,47484,0.709712745345801,19,Totaal,10
 Nederland,Totaal,Wel migratieachtergrond,Totaal,10% - 20%,c00_perinatal_mortality,47484,0.690758992502738,29,Totaal,10
 Nederland,Totaal,Wel migratieachtergrond,Totaal,20% - 30%,c00_perinatal_mortality,47484,0.604414118439896,36,Totaal,10
@@ -1209,26 +1059,6 @@ Nederland,Mannen,Marokko,Tweeoudergezin,60% - 70%,c00_perinatal_mortality,3056,0
 Nederland,Mannen,Marokko,Tweeoudergezin,70% - 80%,c00_perinatal_mortality,3056,0.621727748691099,77,Totaal,10
 Nederland,Mannen,Marokko,Tweeoudergezin,80% - 90%,c00_perinatal_mortality,3056,0.75261780104712,90,Totaal,10
 Nederland,Mannen,Marokko,Tweeoudergezin,90% - 100%,c00_perinatal_mortality,3055,0.392755874194688,130,Totaal,10
-Nederland,Mannen,Overig,Totaal,0% - 10%,c00_perinatal_mortality,14686,0.776249489309547,19,Totaal,10
-Nederland,Mannen,Overig,Totaal,10% - 20%,c00_perinatal_mortality,14686,0.721775840936947,29,Totaal,10
-Nederland,Mannen,Overig,Totaal,20% - 30%,c00_perinatal_mortality,14686,0.592400926052022,38,Totaal,10
-Nederland,Mannen,Overig,Totaal,30% - 40%,c00_perinatal_mortality,14686,0.435789186980798,49,Totaal,10
-Nederland,Mannen,Overig,Totaal,40% - 50%,c00_perinatal_mortality,14686,0.483453629306823,60,Totaal,10
-Nederland,Mannen,Overig,Totaal,50% - 60%,c00_perinatal_mortality,14686,0.360887920468473,71,Totaal,10
-Nederland,Mannen,Overig,Totaal,60% - 70%,c00_perinatal_mortality,14686,0.326841890235599,84,Totaal,10
-Nederland,Mannen,Overig,Totaal,70% - 80%,c00_perinatal_mortality,14686,0.279177447909574,99,Totaal,10
-Nederland,Mannen,Overig,Totaal,80% - 90%,c00_perinatal_mortality,14686,0.333651096282173,123,Totaal,10
-Nederland,Mannen,Overig,Totaal,90% - 100%,c00_perinatal_mortality,14685,0.251956390067974,204,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,0% - 10%,c00_perinatal_mortality,12638,0.720050640924197,22,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,10% - 20%,c00_perinatal_mortality,12638,0.538059819591708,34,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,20% - 30%,c00_perinatal_mortality,12638,0.482671308751385,46,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,30% - 40%,c00_perinatal_mortality,12638,0.522234530780187,56,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,40% - 50%,c00_perinatal_mortality,12638,0.379806931476499,66,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,50% - 60%,c00_perinatal_mortality,12638,0.356068998259218,77,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,60% - 70%,c00_perinatal_mortality,12638,0.284855198607375,89,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,70% - 80%,c00_perinatal_mortality,12637,0.269061219721486,105,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,80% - 90%,c00_perinatal_mortality,12636,0.308641975308642,128,Totaal,10
-Nederland,Mannen,Overig,Tweeoudergezin,90% - 100%,c00_perinatal_mortality,12636,0.237416904083571,211,Totaal,10
 Nederland,Mannen,Wel migratieachtergrond,Totaal,0% - 10%,c00_perinatal_mortality,24366,0.697693507346302,19,Totaal,10
 Nederland,Mannen,Wel migratieachtergrond,Totaal,10% - 20%,c00_perinatal_mortality,24366,0.722317984076172,29,Totaal,10
 Nederland,Mannen,Wel migratieachtergrond,Totaal,20% - 30%,c00_perinatal_mortality,24366,0.623820077156694,36,Totaal,10
@@ -1319,26 +1149,6 @@ Nederland,Vrouwen,Marokko,Tweeoudergezin,60% - 70%,c00_perinatal_mortality,2920,
 Nederland,Vrouwen,Marokko,Tweeoudergezin,70% - 80%,c00_perinatal_mortality,2920,0.547945205479452,76,Totaal,10
 Nederland,Vrouwen,Marokko,Tweeoudergezin,80% - 90%,c00_perinatal_mortality,2920,0.582191780821918,90,Totaal,10
 Nederland,Vrouwen,Marokko,Tweeoudergezin,90% - 100%,c00_perinatal_mortality,2920,0.47945205479452,132,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,0% - 10%,c00_perinatal_mortality,13882,0.720357297219421,19,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,10% - 20%,c00_perinatal_mortality,13882,0.63391442155309,29,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,20% - 30%,c00_perinatal_mortality,13882,0.540267972914566,38,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,30% - 40%,c00_perinatal_mortality,13882,0.475435816164818,49,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,40% - 50%,c00_perinatal_mortality,13882,0.338567929693128,60,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,50% - 60%,c00_perinatal_mortality,13882,0.425010805359458,71,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,60% - 70%,c00_perinatal_mortality,13882,0.367382221581905,84,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,70% - 80%,c00_perinatal_mortality,13880,0.331412103746398,99,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,80% - 90%,c00_perinatal_mortality,13880,0.309798270893372,122,Totaal,10
-Nederland,Vrouwen,Overig,Totaal,90% - 100%,c00_perinatal_mortality,13880,0.259365994236311,203,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,0% - 10%,c00_perinatal_mortality,11936,0.686997319034853,22,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,10% - 20%,c00_perinatal_mortality,11936,0.594839142091153,34,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,20% - 30%,c00_perinatal_mortality,11936,0.435656836461126,46,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,30% - 40%,c00_perinatal_mortality,11936,0.418900804289544,56,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,40% - 50%,c00_perinatal_mortality,11936,0.418900804289544,67,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,50% - 60%,c00_perinatal_mortality,11936,0.37701072386059,77,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,60% - 70%,c00_perinatal_mortality,11936,0.343498659517426,89,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,70% - 80%,c00_perinatal_mortality,11936,0.309986595174263,105,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,80% - 90%,c00_perinatal_mortality,11935,0.335158553006684,128,Totaal,10
-Nederland,Vrouwen,Overig,Tweeoudergezin,90% - 100%,c00_perinatal_mortality,11934,0.251382604323781,211,Totaal,10
 Nederland,Vrouwen,Wel migratieachtergrond,Totaal,0% - 10%,c00_perinatal_mortality,23118,0.713729561380742,19,Totaal,10
 Nederland,Vrouwen,Wel migratieachtergrond,Totaal,10% - 20%,c00_perinatal_mortality,23118,0.666147590622026,29,Totaal,10
 Nederland,Vrouwen,Wel migratieachtergrond,Totaal,20% - 30%,c00_perinatal_mortality,23118,0.583960550220607,36,Totaal,10
