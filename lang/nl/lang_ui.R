@@ -106,7 +106,7 @@ lang[["reset"]] <- "Opnieuw instellen"
 lang[["the_netherlands"]] <- "Nederland"
 
 lang[["area"]] <- "Gemeente"
-lang[["smaller_area"]] <- "Postcode (3 cijfers), wijk"
+lang[["smaller_area"]] <- "Postcode (3 cijfers) of wijk"
 lang[["gender"]] <- "Geslacht"
 lang[["migration_background"]] <- "Migratieachtergrond"
 
