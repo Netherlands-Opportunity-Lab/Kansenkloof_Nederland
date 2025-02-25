@@ -23,7 +23,7 @@ set_lang_sources <- function(site_lang) {
             source(lang_source_filled)
     }
     lang[["loc_outome_table.xlsx"]] <- set_if_file_exists(lang[["loc_outome_table.xlsx"]], sprintf("./data/%s/outcome_table.xlsx", site_lang))
-    lang[["loc_data_rds"]] <- set_if_directory_exists(lang[["loc_data_rds"]], sprintf("./data/%s/", site_lang))
+    lang[["loc_data_rds"]] <- set_if_directory_exists(lang[["loc_data_rds"]], sprintf("./data/%s", site_lang))
 
     lang[["loc_contact.Rmd"]] <- set_if_file_exists(lang[["loc_contact.Rmd"]], sprintf("./lang/%s/markdown/contact.Rmd", site_lang))
     lang[["loc_videos.Rmd"]] <- set_if_file_exists(lang[["loc_videos.Rmd"]], sprintf("./lang/%s/markdown/videos.Rmd", site_lang))
