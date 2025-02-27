@@ -8,7 +8,7 @@ insert(lang[["adjective_map"]], "Nederland", "Nederlandse")
 insert(lang[["adjective_map"]], "Turkije", "Turkse")
 insert(lang[["adjective_map"]], "Marokko", "Marokkaanse")
 insert(lang[["adjective_map"]], "Suriname", "Surinaamse")
-insert(lang[["adjective_map"]], "Nederlandse Antillen", "Antilliaanse")
+insert(lang[["adjective_map"]], "Nederlandse Cariben", "Caribische")
 insert(lang[["adjective_map"]], "Wel migratieachtergrond", "")
 
 # Algemeen tekst
