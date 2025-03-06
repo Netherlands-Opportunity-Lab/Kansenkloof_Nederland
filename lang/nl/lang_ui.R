@@ -1,6 +1,6 @@
 # Dashboard
-lang[["title"]] <- "Dashboard Ongelijkheid in Nederland"
-lang[["title_width"]] <- 400 
+lang[["title"]] <- "KansenKloof Nederland"
+lang[["title_width"]] <- 300 
 
 # General
 lang[["outcome_measure"]] <- "Uitkomstmaat"
