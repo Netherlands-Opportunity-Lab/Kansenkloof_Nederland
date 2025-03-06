@@ -8,7 +8,7 @@ lang[["parent_income"]] <- "Income parents"
 lang[["parent_education"]] <- "Education parents"
 
 lang[["line"]] <- "Line"
-lang[["average"]] <- "Average"
+lang[["average"]] <- "Mean"
 
 lang[["blue_group"]] <- "Blue group"
 lang[["green_group"]] <- "Green group"
@@ -103,7 +103,7 @@ lang[["reset"]] <- "Reset"
 lang[["label_the_netherlands"]] <- "The Netherlands"
 
 lang[["area"]] <- "Municipality"
-lang[["smaller_area"]] <- "Postcode (3 digits), neighborhood"
+lang[["smaller_area"]] <- "Postcode (3 digits) or neighborhood"
 lang[["gender"]] <- "Sex"
 lang[["migration_background"]] <- "Migration background"
 
