@@ -208,8 +208,8 @@ lang[["house_choices"]] <- c("Woonoppervlak per lid huishouden" = "c11_living_sp
 lang[["gender_choices"]] <- c("Totaal", "Mannen", "Vrouwen")
 
 lang[["migration_choices"]] <- c("Totaal", "Zonder migratieachtergrond", "Turkije", "Marokko",
-                      "Suriname", "Nederlandse Antillen", 
-                      "Wel migratieachtergrond") # NEW
+                      "Suriname", "Nederlandse Cariben", # NEW
+                      "Wel migratieachtergrond") 
 
 lang[["household_choices"]] <- c("Totaal", "Eenoudergezin", "Tweeoudergezin")
 
