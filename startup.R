@@ -1,6 +1,6 @@
 #### LOAD DATA ####
 outcome_dat <- read_excel(lang[["loc_outome_table.xlsx"]], sheet = "outcome")
-area_dat <- read_excel(lang[["loc_outome_table.xlsx"]], sheet = "area")
+area_dat <- read_excel(lang[["loc_outome_table.xlsx"]], sheet = "area", col_types = c("text", "text", "text", "text", "text"))
 
 # Define sample names
 samples <- c("child_mortality", "classroom", "elementary_school", 
