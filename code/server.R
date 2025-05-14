@@ -112,7 +112,7 @@ server <- function(input, output, session) {
                               gradient_dat$migratieachtergrond == input$migratie1 & 
                               gradient_dat$huishouden == input$huishouden1)
     } else {
-      if (input$geografie1_2 %in% area_dat$area[area_dat$type == "Wijk"]) {
+      if (input$geografie1_2 %in% area_dat$area[area_dat$type == lang[["label_neighborhood"]]]) {
         wijk_code1 <- area_dat$wijkcode[area_dat$area == input$geografie1_2 & area_dat$gemeente == input$geografie1_1]
         
         data_group1 <- subset(gradient_dat, gradient_dat$uitkomst == input$outcome &
@@ -138,7 +138,7 @@ server <- function(input, output, session) {
                               gradient_dat$migratieachtergrond == input$migratie2 & 
                               gradient_dat$huishouden == input$huishouden2)
     } else {
-      if (input$geografie2_2 %in% area_dat$area[area_dat$type == "Wijk"]) {
+      if (input$geografie2_2 %in% area_dat$area[area_dat$type == lang[["label_neighborhood"]]]) {
         wijk_code2 <- area_dat$wijkcode[area_dat$area == input$geografie2_2 & area_dat$gemeente == input$geografie2_1]
         
         data_group2 <- subset(gradient_dat, gradient_dat$uitkomst == input$outcome &
@@ -210,7 +210,7 @@ server <- function(input, output, session) {
                               gradient_dat$migratieachtergrond == input$migratie1 & 
                               gradient_dat$huishouden == input$huishouden1)
     } else {
-      if (input$geografie1_2 %in% area_dat$area[area_dat$type == "Wijk"]) {
+      if (input$geografie1_2 %in% area_dat$area[area_dat$type == lang[["label_neighborhood"]]]) {
         wijk_code1 <- area_dat$wijkcode[area_dat$area == input$geografie1_2 & area_dat$gemeente == input$geografie1_1]
         
         data_group1 <- subset(gradient_dat, gradient_dat$uitkomst == input$outcome &
@@ -235,7 +235,7 @@ server <- function(input, output, session) {
                               gradient_dat$migratieachtergrond == input$migratie2 & 
                               gradient_dat$huishouden == input$huishouden2)
     } else {
-      if (input$geografie2_2 %in% area_dat$area[area_dat$type == "Wijk"]) {
+      if (input$geografie2_2 %in% area_dat$area[area_dat$type == lang[["label_neighborhood"]]]) {
         wijk_code2 <- area_dat$wijkcode[area_dat$area == input$geografie2_2 & area_dat$gemeente == input$geografie2_1]
         
         data_group2 <- subset(gradient_dat, gradient_dat$uitkomst == input$outcome &
