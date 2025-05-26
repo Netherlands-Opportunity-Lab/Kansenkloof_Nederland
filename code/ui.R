@@ -99,7 +99,7 @@ body <- dashboardBody(
                                                         size = "extra-small")
                                     ),
                                     choices = c(lang[["line"]], lang[["average"]]),
-                                    bigger = TRUE, icon = icon("check-square-o"), status = "info",
+                                    bigger = TRUE, icon = icon("check"), status = "info",
                                     outline = TRUE, inline = TRUE, animation = "smooth"
                                   ),
                                   bsPopover(id = "q_line", title = "",
