@@ -284,10 +284,7 @@ server <- function(input, output, session) {
   DataDownload <- reactive({
     
     dat <- filterData() 
-    dat <- dat %>%
-      select(-c(group, type, uitkomst)) %>%
-      relocate(uitkomst_NL) %>%
-      dplyr::rename(uitkomst = uitkomst_NL)
+    dat <- dat %>% filter(-c(type, group))
     
   })
 
@@ -1044,28 +1041,27 @@ observeEvent(input$user_reset, {
       paste0("data_", get_datetime(), ".zip")
     },
     content = function(file) {
+      dat <- DataDownload()
+      txt <- TxtFile()
+      req(dat, txt)
       
-      # set temporary dir
       tmpdir <- tempdir()
-      setwd(tmpdir)
       zip_files <- c()
       
-      # get files
-      csv_name <- paste0("data_", get_datetime(), ".csv")
-      write.csv(DataDownload(), csv_name)
+      csv_name <- file.path(tmpdir, paste0("data_", get_datetime(), ".csv"))
+      write.csv(dat, csv_name, row.names = FALSE)
       zip_files <- c(zip_files, csv_name)
       
-      # write txt file
-      fileConn <- file("README.txt")
-      writeLines(TxtFile(), fileConn)
-      close(fileConn)
-      zip_files <- c(zip_files, "README.txt")
+      readme_path <- file.path(tmpdir, "README.txt")
+      writeLines(txt, readme_path)
+      zip_files <- c(zip_files, readme_path)
       
-      zip(zipfile = file, files = zip_files)
-      
+      # Create zip (suppress warnings in case of temp path issues)
+      zip(zipfile = file, files = zip_files, flags = "-j")
     },
     contentType = "application/zip"
   )
+  
   
 
   #### DOWNLOAD PLOT ####
