@@ -51,7 +51,7 @@ data_list <- data_list %>% map(translate_mutate_cols)
 
 write_to_rds <- function(data) {
   for (name in names(data_list)) {
-    write_rds(data_list[[name]], file.path("./data/en/", paste0(name, ".rds")))
+    saveRDS(data_list[[name]], file.path("./data/en/", paste0(name, ".rds")))
   }
 }
 

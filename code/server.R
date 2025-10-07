@@ -284,7 +284,6 @@ server <- function(input, output, session) {
   DataDownload <- reactive({
     
     dat <- filterData() 
-    dat <- dat %>% filter(-c(type, group))
     
   })
 
